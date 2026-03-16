@@ -30,6 +30,6 @@ Deux Network Security Groups (NSG) sont définis afin de contrôler les flux ré
   - Autorise les connexions SSH uniquement depuis les machines situées dans le sous-réseau public.  
   - Bloque tout accès direct depuis Internet.  
 
- ### Schéma de l’architecture ###
+ 
+ # Lien vers les fichiers initialements utilisés pour un deploiement initiale sans l'utilisation de module : **https://github.com/Loic-Feukam/IaC_Azure_Terraform-**
 
-![Schéma de l'architecture](images.png)
