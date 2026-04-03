@@ -31,5 +31,5 @@ Deux Network Security Groups (NSG) sont définis afin de contrôler les flux ré
   - Bloque tout accès direct depuis Internet.  
 
  
- # Lien vers les fichiers initialements utilisés pour un deploiement initiale sans l'utilisation de module : **https://github.com/Loic-Feukam/IaC_Azure_Terraform-**
+ Lien vers les fichiers initialements utilisés pour un deploiement initiale sans l'utilisation de module : **https://github.com/Loic-Feukam/IaC_Azure_Terraform-**
 
